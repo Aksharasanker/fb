@@ -1,0 +1,96 @@
+*{
+    margin: 0px;
+    padding: 0;
+    
+}
+
+h1{
+    color: blue;
+    font-family: Helvetica;
+    font-size:40px;
+    padding-top: 50px;
+    margin-left: 50px;
+    
+}
+#forms{
+    
+    justify-content: space-between;
+    justify-content: center;
+    text-align: center;
+    border:1px solid white ;
+    
+}
+.box{
+    border: 1px solid white ;
+    border-radius: 8px;
+   
+    height: 300px;
+    width: 400px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-left: 38%;
+    padding-bottom: 25px;
+    padding-top: 25px;
+    background-color: white;
+}
+.container{
+    background-color: rgb(228, 237, 243);
+    justify-content: center;
+    text-align: center;
+    height: 500px;
+    margin-top: 10px;
+}
+.fg{
+    padding-right: 0px;
+}
+
+#email{
+    width: 350px;
+    height: 45px;
+    border-radius: 5px solid grey;
+    text-align: left;
+   
+    
+    
+}
+#password{
+    width: 350px;
+    height: 45px;
+    border-radius: 5px solid grey;
+    text-align: left;
+   
+   
+   
+}
+ul{
+ list-style: none;
+}
+.links{
+    text-decoration: none;
+    style:none;
+
+     
+}
+.link{
+    text-decoration: none;
+    style:none;
+}
+button{
+    color: white;
+    background-color: rgb(32, 32, 231);
+    width: 350px;
+    height: 45px;
+    border-radius: 5px;
+    border-width: 0ch;
+}
+.lang{
+    color: grey;
+    text-align: center;
+}
+  .id{
+    text-align: center;
+  }
+  
+
+
